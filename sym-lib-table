@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "NRF52840-DONGLE")(type "Legacy")(uri "${KIPRJMOD}/NRF52840-DONGLE.lib")(options "")(descr ""))
+  (lib (name "BTS4140N")(type "KiCad")(uri "${KIPRJMOD}/BTS4140N.kicad_sym")(options "")(descr ""))
+  (lib (name "DD8024TA")(type "KiCad")(uri "${KIPRJMOD}/DD8024TA.kicad_sym")(options "")(descr ""))
+)

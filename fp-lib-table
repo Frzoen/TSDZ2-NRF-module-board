@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "stanislao_nrf-backups")(type "KiCad")(uri "${KIPRJMOD}/")(options "")(descr ""))
+)
