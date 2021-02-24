@@ -4,7 +4,7 @@
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
-    "high_contrast_mode": 0,
+    "high_contrast_mode": 1,
     "net_color_mode": 1,
     "opacity": {
       "pads": 1.0,
@@ -52,22 +52,22 @@
       24,
       25,
       26,
+      27,
+      28,
       29,
       30,
-      31,
       32,
       33,
       34,
       35,
-      39,
-      40
+      36
     ],
     "visible_layers": "ffdffff_ffffffff",
     "zone_display_mode": 1
   },
   "meta": {
     "filename": "stanislao_nrf.kicad_prl",
-    "version": 2
+    "version": 3
   },
   "project": {
     "files": []
